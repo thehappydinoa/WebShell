@@ -31,7 +31,7 @@ $ cd APP_NAME && open WebShell.xcodeproj
 
 ```
 
-Edit `Sites/WebShell/Settings.swiftt` and change the url whatever you like.
+Edit `Sites/WebShell/Settings.swift` and change the url whatever you like.
 
 
 Finally click the `run` button to run the app.
